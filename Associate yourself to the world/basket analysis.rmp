@@ -26,7 +26,6 @@
     <parameter key="logverbosity" value="status"/>
     <parameter key="random_seed" value="2001"/>
     <parameter key="send_mail" value="for_long_processes"/>
-    <parameter key="notification_email" value="antoniopaisfernandes@gmail.com"/>
     <parameter key="process_duration_for_mail" value="30"/>
     <parameter key="encoding" value="SYSTEM"/>
     <parameter key="parallelize_main_process" value="false"/>
